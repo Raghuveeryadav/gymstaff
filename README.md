@@ -2,7 +2,6 @@
 <!Doctype html>
 <html>
 <head>
-	<title>GYM Staff</title>
 </head>
 <body>
 	<ul>
