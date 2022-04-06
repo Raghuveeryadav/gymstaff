@@ -4,11 +4,11 @@
 <head>
 </head>
 <body>
-	<ul>
+	<ol>
 	<li>Ramesh</li>
 	<li>Mani kishore</li>
 	<li>Anjali</li>
 	<li>Raghuveer</li>
-	</ui>
+	</ol>
 </body>
 </html>
