@@ -1,4 +1,4 @@
-# gymstaff
+# Gymstaff
 <!Doctype html>
 <html>
 <head>
